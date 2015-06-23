@@ -1,0 +1,10 @@
+1. Epic decomposition into user stories
+First of all, before starting to specify software, we have to identify epics, which is a large user story. Then, decompose each epic to user stories by using this structure:
+	As a <Role>, I want <Feature>, so that <Benefit>.
+This is a helpful structure because developers will be reminded about the benefit of every feature that they will create. 
+
+2. Technique to specify a software by using 3C’s
+3C’s consists of:
+Card: It can be either an index card or an electronic card that say an user story “As a role, I want Feature, so that Benefit”.
+Conservation: It is a two-way communication between a software developer and clients to get more detail and have more understanding to each other. 
+Confirmation: It is a way to test software by using the structure: Given……, when….., then…… This structure is called Behavior Driven Development (BDD)
