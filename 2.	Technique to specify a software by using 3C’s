@@ -2,3 +2,6 @@
 Card: It can be either an index card or an electronic card that say an user story “As a role, I want Feature, so that Benefit”.
 Conservation: It is a two-way communication between a software developer and clients to get more detail and have more understanding to each other. 
 Confirmation: It is a way to test software by using the structure: Given……, when….., then…… This structure is called Behavior Driven Development (BDD)
+Testing provides us 2 benefits:
+ 1. to make sure we create the features that are important to us
+ 2. to make sure whether what is created is correct 
