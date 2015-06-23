@@ -1,0 +1,20 @@
+A great developer will understand nature of your business and business problems you are facing.
+A great developer understand technology. 
+How can we notice that he understands technology?? Below is some observations.
+1. He will care about his craft. 
+2. He should know more than one programming language. 
+Knowing many languages shows his interest in learning and developing his skills, and is therefore a good sign.
+3. He shows interest in building an automated system to ease the project.
+4. He shows interest in applying the best practices, acceptance test. 
+Below is a list of 3 main questions you may want to ask before hiring:
+1. What... (xxx)... do you use?? 
+1.1. What... (version control system)... do you use?
+>> version control system is used to keep track of changes e.g. GIT, Mercurial, Subversion, TFS
+1.2. What... (unit testing framework)... do you use? 
+>> unit testing framework is a piece of software you use to ensure the program/code you write works as you thought
+1.3. What... (programming framework)... do you use?
+>> Programming framework is like a guidance allows web developers to build the website faster
+2. What did you compare it with? 
+3. Why did you choose it over other options?  
+Last but not least, a great developer should share vision with you (owner) 
+so that he builds a simple posssible code but effective to solve your business problems.
