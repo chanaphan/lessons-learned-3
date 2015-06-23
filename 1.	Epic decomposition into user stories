@@ -1,0 +1,4 @@
+First of all, before starting to specify software, we have to identify epics, which is a large user story. 
+Then, decompose each epic to user stories by using this structure:
+	  As a role, I want Feature, so that Benefit.
+This is a helpful structure because developers will be reminded about the benefit of every feature that they will create. 
