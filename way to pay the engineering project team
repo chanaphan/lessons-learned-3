@@ -1,10 +1,12 @@
-The appoach to pay for the project team depends on the scope, complexity and the objective of the projects. Each of them have diffenret advantages.
+The appoach to pay for the project team depends on the scope, the complexity and the objective of the projects. 
+Each of them has different advantages.
 1. Pay by hour if the project needs more flexibility. 
-For instance, the software is rquired to be released frequently;
-or it requires the engeneers from all over the world and each of them contribute to small part of it with lots of variables and it's hard to pay by fixed bid.
-2. Fixed bid is the relative more feasible and popular payment approah. There are several advantages. 
+For instance, the software is required to be released frequently;
+or it requires the engineers from all over the world and each of them contributes to a small part of it with lots of variables and it's hard to pay by fixed bid.
+2. Fixed bid is the relative more feasible and popular payment approach. There are several advantages. 
 For example, fixed bid would increase the project team accountablity and efficiency because each one is measured by the final project outcome and it's least possible that the project team would like to extend the project period to get addional payment.
-To build on Fixed Bid approach: customer has to design specifications and requirements in detailed since the beginning (BDUF). 
-But the problem is customer usually does not know or totally understand what he needs. Customer desire and requirements can change all the time. Good ideas may arise when developer starts building the code or when customer can think of something new to solve his business need. 
-Fixed bid may result in extended timeline to complete the project or get what does not really needed. 
-Also, fixed bid does not allow software development to be reiterated since with "iterative software development”, developer breaks a big project into smaller projects and builds a software as simple as possible and redefine, redesign what customer really wants along the way (not build big and perfect since the beginning).
+To build on Fixed Bid approach: customer has to design specifications and requirements in detailed since the beginning (Big Design UpFront BDUF). 
+But the problem is the customer usually does not know or totally understand what he needs. Customer desire and requirements can change all the time. 
+Good ideas may arise when the developer starts building the code or when customer can think of something new to solve his business need. 
+Fixed bid may result in extended timeline to complete the project or the outcome that is not really needed. 
+Also, fixed bid does not allow software development to be reiterated since with "iterative software development”, which is when the developer breaks a big project into smaller projects and builds a software as simple as possible and redefine, redesign what customer really wants along the way (not build big and perfect since the beginning).
