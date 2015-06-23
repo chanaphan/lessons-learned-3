@@ -1,4 +1,14 @@
-To develop mobile application, three approaches can be used. Which approach to select is depending on the timeline and budget.
-The first one is using "Phone gap" or "Cordova". This tool can be used for mainly prototype of mobile app. Even though this isn't look like nativbe application, you can quickly deliver it on multiple platform.
-The second approach is using "Titanium Appcelerator" and "Xamarin" Through there tools, you can quickly develop native look like mobile app. 
-The last one is developing native application. This apporach is the most expensive approach amonng these three approaches. But you can get absolutely best performance and easies way to update the application. 
+To develop mobile application, three approaches can be used. 
+Which approach to select is depending on the timeline, budget and business objective. 
+The first approach is using "Phone gap" or "Cordova". This tool can be used for mainly prototype of mobile app. 
+Even though this isn't look like native application, you can quickly deliver it on multiple platform.
+The second approach is using "Titanium Appcelerator" and "Xamarin". 
+Through these tools, you can quickly develop native look like mobile app.  
+The developer can write only one code and apply to both IOS and android platforms.
+The last one is developing native application, allowing you the best performance. 
+This apporach is the most expensive approach among these three approaches and requires different languages to be written for different platforms.
+The developer must write Java for Android platform and SWIFT for IOS platform.  
+It is beneficial to think strategically about the business value added before deciding to building a mobile app. 
+A startup owner should consider the necessity, the business goals and the investment benefits and costs of launching a mobile app. 
+It is possible that a normal simple website or a responsive website (that adjusted appearance based on the screen e.g. desktop pc or mobile) serves the business purpose strategically and financially better than a mobile app.
+Mobile app may not always be the best solution for startup business. 
